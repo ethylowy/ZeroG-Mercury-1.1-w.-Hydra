@@ -1,5 +1,5 @@
 # ;TLDR
-Work in progress - frame done, wiring to go.
+Soon to lift off.
 
 # PLANNED BUILD
 Merc based on Ender5 Pro with Hydra. Color-wise its Juicy Orange and Pure White ABS/ASA filaments.
@@ -17,4 +17,4 @@ Merc based on Ender5 Pro with Hydra. Color-wise its Juicy Orange and Pure White 
 </ol>  
 
 # PROGRESS
-Frame is done, half of the printer is assembled. mkostly what's left is to wire everything down and test it all up.
+Printer is UP!!! For now only fine tuning remains, and lift-off time!
